@@ -1,0 +1,8 @@
+****************************
+MOVIE TICKET REPORT
+****************************
+MOVIE NAME: Napolean
+MOVIE TICKET PRICE: R 100,00
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: R 342,00
+****************************
